@@ -1,4 +1,4 @@
-# internsctl - Custom Linux Command
+# internsctl: Custom Linux Command
 
 `internsctl` is a custom Linux command implemented in Bash, designed to provide various server management functionalities.
 
